@@ -16,8 +16,6 @@ body {
     background-color: #fff;
     margin: 0;
 }
-
-/* Main Content */
 /* Main Header*/
 .main-header {
 	/* width: 100%;
@@ -158,10 +156,12 @@ h1.title a:hover {
 	padding-left: 42px;
 }
 .bd1-p {
-	padding-left: 40px;
+	padding-left: 48px;
+	width: 521px;
+	height: 500px;
 }
 .bd1-p {
-	padding-top: 10px;
+	padding-top: 0px;
 }
 .test {
 	padding-left: 50px;	
@@ -202,9 +202,9 @@ p {
 	margin-bottom: 25px;
 	color: #7c7b7a;
 }
-
-/*.main-1,
-.main-2,
+*/
+.main-1,
+.main-2, 
 .main-3 {
 	width: 30.5%;
 }
